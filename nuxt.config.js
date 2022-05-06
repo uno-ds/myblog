@@ -15,7 +15,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: './assets/img/favicon.ico' },
       { rel: 'stylesheet', href: 'https://unpkg.com/boxicons@latest/css/boxicons.min.css' }
     ]
   },
