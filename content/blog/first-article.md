@@ -8,6 +8,6 @@ tag: make blog for nuxtjs
 # nuxt projectの始め方
    
 
-'''
+```
 npx crate-nuxt-app [project]
-'''
+```
